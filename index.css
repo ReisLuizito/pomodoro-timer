@@ -42,3 +42,7 @@ h2{
 #timer{
    display: none !important;
 }
+
+.copyright {
+padding: 0.2;
+}
